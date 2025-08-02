@@ -1,11 +1,5 @@
 flask
 line-bot-sdk
-google-generativeai
-requests
-beautifulsoup4
 python-dotenv
-gspread
-oauth2client
-PyMuPDF
-pandas
-openpyxl
+google-generativeai
+gunicorn
